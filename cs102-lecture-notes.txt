@@ -1,0 +1,5 @@
+1) git push - to push the changes to the server
+2) git add. - to stage all files in the current directory to the repository
+3) git commit -m "some cooment" - to commit the changes and naming the new version using the comment
+4) git status - gives info about on branch, committed changes and possible commits.
+5) git clone <SSH key> - to clone to the local machine when SSH key of the repositoy is known
