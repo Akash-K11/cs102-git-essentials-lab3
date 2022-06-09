@@ -3,3 +3,4 @@
 3) git commit -m "some cooment" - to commit the changes and naming the new version using the comment
 4) git status - gives info about on branch, committed changes and possible commits.
 5) git clone <SSH key> - to clone to the local machine when SSH key of the repositoy is known
+In today's lecture, I learnt that Github is a version control website which facilitates collaborative changes to various files. The interface of Github desktop was introduced. I learnt about rsa security and commands to generate public/private key. Also, I learnt how to clone, stage, commit, push and pull changes in a repository. Also, I learnt commands regarding how to know current branch, how to know whether git environment is already installed, how to know info about log of git repository, to check username or email entered, and how to add or change credentials to git.
